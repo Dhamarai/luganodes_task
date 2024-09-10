@@ -1,0 +1,7 @@
+INFO:root:Connected to Ethereum
+INFO:root:Latest Block Number: 20719978
+INFO:root:Number of Transactions in Block: 138
+INFO:root:Deposit detected! Tx Hash: 0x123abc456def789ghi012jkl345mno678pqr901stu234vwx567yz890
+ERROR:root:Error occurred: ConnectionTimeout: Could not connect to Ethereum node
+INFO:root:Deposit detected! Tx Hash: 0x1a2b3c4d5e6f7g8h9i0jklmnopqrst123uvwxyz456789abcdefghijk
+ERROR:root:Error occurred: ValueError: Invalid block number
